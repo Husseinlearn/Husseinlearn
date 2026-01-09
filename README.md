@@ -13,7 +13,7 @@ I am an Information Technology graduate with a Diploma in Accounting, specializi
 
 - 🔭 **Expertise:** Developing management systems (Dental Clinics, E-commerce Platforms).
 - 🧠 **Tech Focus:** C++, Python, Django, and Database Design.
-- ⚡ **Unique Value:** My accounting background allows me to build precise financial modules within ERP and management systems.
+- ⚡ **Unique Value:** My accounting background allows me to build precise financial modules within ERP systems.
 - 🎯 **Goal:** Joining a professional environment to contribute to high-impact projects.
 
 ---
@@ -42,12 +42,12 @@ I am an Information Technology graduate with a Diploma in Accounting, specializi
       <img src="https://skillicons.dev/icons?i=html,css" width="40" height="40" alt="Frontend" />
       <br>Web Basics
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
       <br>SQLite
@@ -87,7 +87,6 @@ I am an Information Technology graduate with a Diploma in Accounting, specializi
 <a href="mailto:workonlinems@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="workonlinems@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/hsin71023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsin71023" height="30" width="40" /></a>
 <a href="https://medium.com/@_hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="_hussein" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hussinali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hussinali" height="30" width="40" /></a>
 </p>
 
 <p align="center">

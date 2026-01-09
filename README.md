@@ -1,85 +1,95 @@
-# 👋 Hi, I'm Hussein Ali Al-Sebaei
+<h1 align="center">Hi 👋, I'm Hussein Al-Sebaei</h1>
+<h3 align="center">IT Graduate | Software Developer | Accounting Specialist</h3>
 
-🎓 **Information Technology Graduate** | 📊 **Diploma in Accounting**  
-💻 **Full-Stack Developer (Backend-Focused)**  
-🚀 Passionate about building scalable, real-world software solutions
-
----
-
-## 💫 About Me
-
-I am an Information Technology graduate with a Diploma in Accounting, specializing in developing **integrated and practical software systems**.  
-I have hands-on experience in building **management systems** such as:
-
-- 🦷 Dental Clinic Management Systems  
-- 🛒 E-commerce & Store Management Platforms  
-
-My strengths lie in:
-- Backend development
-- Database design & optimization
-- System analysis and translating client requirements into technical solutions
-
-I am highly motivated to join a **professional work environment** where I can continuously enhance my skills and contribute to impactful, real-world projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Husseinlearn&label=Profile%20Views&color=0e75b6&style=flat" alt="Husseinlearn" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 💫 About Me
+**A bridge between Finance and Technology.** 
+I am an Information Technology graduate with a Diploma in Accounting, specializing in building integrated software solutions that solve real-world business problems. 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsin71023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-al-sebaei/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@_hussein)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hussein_ali)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hussinali)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@HussinAli)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workonlinems@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white)
-
-### 🧪 Tools & Environment
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+- 🔭 **Expertise:** Developing management systems (Dental Clinics, E-commerce Platforms).
+- 🧠 **Tech Focus:** C++, Python, Django, and Database Design.
+- ⚡ **Unique Value:** My accounting background allows me to build precise financial modules within ERP and management systems.
+- 🎯 **Goal:** Joining a professional environment to contribute to high-impact projects.
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ Tech Stack & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=Husseinlearn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Husseinlearn&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&theme=shadow_blue&hide_border=false&layout=compact)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css" width="40" height="40" alt="Frontend" />
+      <br>Web Basics
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔝 Top Contributions
+### 📊 GitHub Activity
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=Husseinlearn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight" />
+</p>
 
 ---
 
-## 👀 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=Husseinlearn&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/hussein-al-sebaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-al-sebaei" height="30" width="40" /></a>
+<a href="mailto:workonlinems@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="workonlinems@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/hsin71023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsin71023" height="30" width="40" /></a>
+<a href="https://medium.com/@_hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="_hussein" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hussinali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hussinali" height="30" width="40" /></a>
+</p>
 
----
-
-⭐ *Feel free to explore my repositories and projects. I’m always open to collaboration and new opportunities.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>

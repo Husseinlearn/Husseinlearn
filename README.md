@@ -1,122 +1,104 @@
-# 👋 Hi, I'm Hussein Ali Al-Sebaei
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:092E20&height=200&section=header&text=Hussein%20Ali%20Al-Sebaei&fontSize=45&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🎓 **Information Technology Graduate** | 📊 **Diploma in Accounting**  
-💻 **Full-Stack Developer (Backend-Oriented)**  
-🚀 Passionate about building scalable, real-world software systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Husseinlearn&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Husseinlearn" />
+</p>
 
----
+<h2 align="center">🚀 Software Engineer & Financial Systems Specialist</h2>
 
-## 💫 About Me
-
-I am an Information Technology graduate with a Diploma in Accounting, specializing in developing **integrated and practical software solutions**.  
-I have solid experience in building **management systems** and backend-driven applications with a strong focus on:
-
-- Backend development & APIs
-- Database design and normalization
-- System analysis & business requirements translation
-
-I aim to join a **professional work environment** where I can grow technically and contribute to impactful, production-ready systems.
+<p align="center">
+  <b>IT Graduate | Accounting Expert | Backend Focused Developer</b>
+</p>
 
 ---
 
-## 🚀 Projects
+### 💫 About Me
+> "I bridge the gap between financial precision and technical innovation."
 
-### 🦷 DentPro – Dental Clinic Management System
-A comprehensive system designed to digitize and streamline dental clinic operations.
-
-**Key Features:**
-- Patient records & medical history management
-- Appointments scheduling and tracking
-- Clinical examinations & diagnoses
-- Prescriptions and treatment planning
-- Attachments (X-rays, reports)
-- Role-based structure (Doctors / Staff)
-
-**Tech Stack:**  
-`Django` · `Django REST Framework` · `PostgreSQL` · `JWT Authentication`
+- 🔭 **Focus:** Building robust management systems that solve complex business logic.
+- 🧠 **The Advantage:** My **Accounting background** allows me to build financial and ERP modules with high accuracy (Double-entry, Ledger logic, Inventory).
+- ⚙️ **Expertise:** Django Specialist, Database Architect, and C++ Problem Solver.
+- 🎯 **Looking for:** Professional opportunities to contribute to enterprise-level software.
 
 ---
 
-### 🛒 Emlaa Matjark – Wholesale & Retail Management Platform
-A scalable platform that connects **wholesale companies with retailers**, enabling efficient ordering and management.
+### 🛠️ Tech Stack & Expertise
 
-**Key Features:**
-- Company & retailer accounts
-- Product catalog management
-- Multi-company orders
-- Order tracking & archiving
-- Internal communication (chat/messages)
-- Reports & sales analytics
-- Multi-language support (Arabic / English)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,postgres,sqlite,html,css,bootstrap,git,postman,anaconda&perline=6" />
+</p>
 
-**Tech Stack:**  
-`Django` · `PostgreSQL` · `REST APIs` · `JWT` · `HTML / CSS`
+<div align="center">
 
----
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Backend** | Python, Django, Django REST Framework, JWT |
+| **Databases** | PostgreSQL, SQLite, CrateDB |
+| **Frontend** | HTML5, CSS3, Bootstrap |
+| **Tools** | Git/GitHub, Postman, Anaconda |
 
-### ⚙️ Additional Systems & Practice Projects
-- CRUD-based management systems
-- Database-driven applications
-- C++ problem-solving and data structures
-- API development & integration projects
+</div>
 
 ---
 
-## 🌐 Connect With Me
+### 📂 Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsin71023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-al-sebaei/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@_hussein)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hussinali)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@HussinAli)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workonlinems@gmail.com)
+#### 🦷 [DentPro - Dental Clinic System](https://github.com/Husseinlearn)
+> *Complete digitization of clinical operations and patient management.*
+- 🛠️ **Built with:** `Django` | `PostgreSQL` | `DRF`
+- 🌟 **Key Feature:** Automated medical history tracking and smart appointment scheduling.
 
----
-
-## 💻 Tech Stack
-
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white)
+#### 🛒 [Emlaa Matjark - Wholesale Platform](https://github.com/Husseinlearn)
+> *B2B Platform connecting wholesalers with retailers.*
+- 🛠️ **Built with:** `Django` | `REST APIs` | `JWT`
+- 🌟 **Key Feature:** Multi-tenant architecture for companies and real-time order tracking.
 
 ---
 
-## 📊 GitHub Statistics & Analytics
+### 📊 GitHub Dashboard
 
-![](https://github-readme-stats.vercel.app/api?username=Husseinlearn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Husseinlearn&theme=shadow_blue&hide_border=false)
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight&hide_border=false" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&theme=shadow_blue&hide_border=false&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husseinlearn&theme=github_dark)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=Husseinlearn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=Husseinlearn&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husseinlearn&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Thank you for visiting my profile. I’m open to collaboration, internships, and full-time opportunities.*
+### 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/hussein-al-sebaei/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:workonlinems@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/hussinali" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@_hussein" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hsin71023" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:092E20&height=100&section=footer" />
+</p>
+
+---
+<p align="center">
+  <i>"Writing clean code today to build a better system tomorrow."</i>
+</p>

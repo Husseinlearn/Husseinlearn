@@ -1,95 +1,104 @@
 <p align="center">
-  <a href="https://github.com/Husseinlearn">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0077B5&height=220&section=header&text=Hussein%20Al-Sebaei&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:092E20&height=200&section=header&text=Hussein%20Ali%20Al-Sebaei&fontSize=45&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Husseinlearn&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Husseinlearn" />
+</p>
+
+<h2 align="center">🚀 Software Engineer & Financial Systems Specialist</h2>
+
+<p align="center">
+  <b>IT Graduate | Accounting Expert | Backend Focused Developer</b>
+</p>
+
+---
+
+### 💫 About Me
+> "I bridge the gap between financial precision and technical innovation."
+
+- 🔭 **Focus:** Building robust management systems that solve complex business logic.
+- 🧠 **The Advantage:** My **Accounting background** allows me to build financial and ERP modules with high accuracy (Double-entry, Ledger logic, Inventory).
+- ⚙️ **Expertise:** Django Specialist, Database Architect, and C++ Problem Solver.
+- 🎯 **Looking for:** Professional opportunities to contribute to enterprise-level software.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,postgres,sqlite,html,css,bootstrap,git,postman,anaconda&perline=6" />
+</p>
+
+<div align="center">
+
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Backend** | Python, Django, Django REST Framework, JWT |
+| **Databases** | PostgreSQL, SQLite, CrateDB |
+| **Frontend** | HTML5, CSS3, Bootstrap |
+| **Tools** | Git/GitHub, Postman, Anaconda |
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+#### 🦷 [DentPro - Dental Clinic System](https://github.com/Husseinlearn)
+> *Complete digitization of clinical operations and patient management.*
+- 🛠️ **Built with:** `Django` | `PostgreSQL` | `DRF`
+- 🌟 **Key Feature:** Automated medical history tracking and smart appointment scheduling.
+
+#### 🛒 [Emlaa Matjark - Wholesale Platform](https://github.com/Husseinlearn)
+> *B2B Platform connecting wholesalers with retailers.*
+- 🛠️ **Built with:** `Django` | `REST APIs` | `JWT`
+- 🌟 **Key Feature:** Multi-tenant architecture for companies and real-time order tracking.
+
+---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husseinlearn&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/hussein-al-sebaei/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:workonlinems@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/hussinali" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@_hussein" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hsin71023" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/hussein-al-sebaei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:workonlinems@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://medium.com/@_hussein"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-<table>
-  <tr>
-    <td width="65%">
-      <h2 align="center">🚀 About Me</h2>
-      <p>
-        خريج <b>تقنية معلومات</b> متخصص في تطوير الأنظمة الخلفية (Backend ) والبرمجيات الإدارية المعقدة. أمتلك خبرة فريدة في <b>ترجمة منطق الأعمال المالية والمحاسبية إلى كود برمجي نظيف وقابل للتطوير</b>. أركز على بناء أنظمة عالية الأداء وآمنة، مع تحسين قواعد البيانات وتأمين واجهات برمجة التطبيقات (APIs).
-      </p>
-      <ul>
-        <li>🌐 <b>Full-Stack Vision:</b> بناء تجارب مستخدم متكاملة مع أنظمة خلفية قوية.</li>
-        <li>📊 <b>Financial & Accounting Logic:</b> خبير في أنظمة دفتر الأستاذ، وحدات ERP، والتقارير المالية.</li>
-        <li>🛠️ <b>System Architecture:</b> التركيز على تحسين قواعد البيانات وأمان واجهات برمجة التطبيقات (JWT).</li>
-      </ul>
-    </td>
-    <td width="35%">
-      <h3 align="center">📊 Top Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,cpp,postgres,mongodb,sqlite,git,github,docker,postman&perline=6" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:092E20&height=100&section=footer" />
 </p>
 
 ---
-
-## 📈 My GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-<details>
-  <summary>
-    <h3>1️⃣ DentPro | Dental Clinic Management ERP</h3>
-  </summary>
-  
-  > **المشكلة:** تشتت بيانات العيادة وصعوبة تتبع المواعيد يدويًا.
-  - **الحل المتقدم:** تطوير نظام ERP مركزي لإدارة دورة حياة المريض بالكامل.
-  - **أبرز الميزات التقنية:**
-    - **أرشفة طبية:** نظام لإرفاق واسترجاع صور الأشعة والتقارير عالية الدقة.
-    - **وحدة مالية متكاملة:** نظام فوترة يعتمد على الإجراءات الطبية.
-    - **أمان عالي:** تطبيق نظام التحكم في الوصول المستند إلى الأدوار (RBAC ) لحماية البيانات الطبية الحساسة.
-  - **التقنيات المستخدمة:** `Django` | `PostgreSQL` | `DRF` | `JWT` | `Bootstrap`
-</details>
-
-<details>
-  <summary>
-    <h3>2️⃣ Emlaa Matjark | Wholesale & B2B Ecosystem</h3>
-  </summary>
-  
-  > **المشكلة:** عدم كفاءة التواصل وتتبع الطلبات بين تجار الجملة ومتاجر التجزئة.
-  - **الحل المتقدم:** منصة متعددة المستأجرين (Multi-tenant) تتيح للشركات إدارة كتالوجاتها وتجار التجزئة تقديم الطلبات بالجملة.
-  - **أبرز الميزات التقنية:**
-    - **منطق أعمال معقد:** أتمتة مستويات الخصم بناءً على حجم الطلب ونوع بائع التجزئة.
-    - **قابلية للتوسع:** تحسين استعلامات PostgreSQL للتعامل مع آلاف المنتجات عبر شركات متعددة.
-    - **دعم متعدد اللغات:** دعم كامل للغة العربية (RTL) مع تبديل ديناميكي بين العربية والإنجليزية.
-  - **التقنيات المستخدمة:** `Python/Django` | `PostgreSQL` | `REST API` | `Advanced CSS`
-</details>
-
-  
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Husseinlearn&icon=2&color=12" />
+  <i>"Writing clean code today to build a better system tomorrow."</i>
 </p>

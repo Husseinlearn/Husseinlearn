@@ -1,120 +1,109 @@
-
 <p align="center">
-  <a href="https://github.com/Husseinlearn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hussein%20Al-Sebaei&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff&stroke=000000&strokeWidth=2" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e293b,100:0f172a&height=220&section=header&text=HUSSEIN%20AL-SEBAEI&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Software%20Architect%20|%20Financial%20Systems%20Expert&descAlignY=60&descSize=20" />
 </p>
 
-<p align="center">
-    <a href="https://linkedin.com/in/hussein-al-sebaei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:workonlinems@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://medium.com/@_hussein"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/hussinali"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
 
----
+<br>
 
-<h1 align="center">🚀 مهندس برمجيات متخصص في الأنظمة المالية والمعقدة</h1>
-
-<p align="center">
-  مرحباً! أنا حسين السباعي، مهندس برمجيات بخبرة عميقة في بناء أنظمة خلفية (Backend) قوية وموثوقة، مع تركيز خاص على <b>البرمجيات المالية والمحاسبية</b>. أمتلك شغفاً بتحويل تحديات الأعمال المعقدة إلى حلول برمجية أنيقة وفعالة، مع التزام صارم بأفضل ممارسات الهندسة المعمارية والأداء.
-</p>
-
----
-
-## 💡 التميز الهندسي
-
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="33%" align="center">
-      <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" style="vertical-align: middle;"> منطق الأعمال المالية</h3>
-      <p>خبرة في تصميم وتطوير أنظمة دفتر الأستاذ العام (GL)، ERP، وإدارة الأصول. أترجم المتطلبات المحاسبية المعقدة إلى كود نظيف وقابل للتوسع.</p>
+    <td width="55%" valign="top">
+      <h3>🚀 The Vision</h3>
+      <p>
+        <i>"Engineering reliable software by blending technical precision with financial logic."</i>
+      </p>
+      <p>
+        I am a <b>Software Developer</b> with a dual-core expertise in <b>IT & Accounting</b>. Unlike a typical coder, I architect systems with a deep understanding of business rules, ledger accuracy, and scalable backend performance.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Problem--Solving-Expert-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database--Design-Optimized-blue?style=flat-square" />
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" style="vertical-align: middle;"> تحسين قواعد البيانات</h3>
-      <p>تصميم مخططات قواعد بيانات فعالة، تحسين الاستعلامات، وضمان سلامة البيانات وأدائها العالي، خاصة في بيئات البيانات الكبيرة.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30" style="vertical-align: middle;"> أمان وواجهات برمجية</h3>
-      <p>بناء واجهات برمجة تطبيقات (APIs) آمنة وقابلة للتوسع باستخدام JWT، مع التركيز على التحكم في الوصول المستند إلى الأدوار (RBAC).</p>
+    <td width="45%" valign="top">
+      <h3>📊 Digital Snapshot</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ حزمة التقنيات (My Tech Stack)
+### 🏛️ Engineering Portfolio (System Showcases)
+
+<details open>
+<summary><b>1. DentPro ERP (Dental Healthcare System)</b></summary>
+<br>
+<blockquote>
+  <b>Architecture:</b> Monolithic Django with RESTful API layers.
+</blockquote>
+
+- **Objective:** To automate clinical workflows and medical history archiving.
+- **Deep Tech:** 
+  - Implemented complex scheduling algorithms to prevent appointment overlap.
+  - Built a financial billing module that integrates medical procedures with accounting ledgers.
+  - **Security:** JWT-based stateless authentication for secure mobile/web access.
+- **Stack:** `Django` | `Postgres` | `DRF` | `Cloudinary`
+</details>
+
+<details>
+<summary><b>2. Emlaa Matjark (B2B Supply Chain Platform)</b></summary>
+<br>
+<blockquote>
+  <b>Architecture:</b> Multi-tenant B2B platform for Wholesalers & Retailers.
+</blockquote>
+
+- **Objective:** Streamlining bulk ordering and inventory communication.
+- **Deep Tech:**
+  - Designed a high-normalization database schema to handle 10k+ SKU inventories.
+  - Real-time order tracking status with automated PDF invoice generation.
+  - Role-Based Access Control (RBAC) managing three distinct user tiers.
+- **Stack:** `Python` | `Django` | `Bootstrap 5` | `Postgres`
+</details>
+
+---
+
+### ⚙️ Technical Ecosystem
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,cpp,postgres,mongodb,sqlite,git,github,docker,kubernetes,aws,linux,postman,vscode&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,postgres,sqlite,html,css,bootstrap,tailwind,git,github,postman,anaconda,vscode,linux&perline=8" />
 </p>
 
 ---
 
-## 📊 لوحة تحكم GitHub (GitHub Dashboard)
+### 📉 Backend Performance & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0D1117" alt="Hussein's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=dark&hide_border=true&stroke=0077B5&background=0D1117&currstreak_color=0077B5&ring=0077B5&side_main=ffffff&side_alt=cccccc" alt="Hussein's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight&hide_border=true&background=0f172a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&layout=compact&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husseinlearn&theme=tokyonight" />
 </p>
 
 ---
 
-## 📂 مشاريع مختارة (Featured Projects)
+### 🤝 Strategic Connections
 
-<details>
-  <summary>
-    <h3>1️⃣ DentPro | نظام إدارة عيادات الأسنان (ERP)</h3>
-  </summary>
-  
-  > <b>التحدي:</b> تشتت البيانات الطبية، صعوبة تتبع المواعيد، وعدم وجود نظام فوترة متكامل.
-  - <b>الحل:</b> تطوير نظام ERP شامل لإدارة دورة حياة المريض بالكامل، من الحجز وحتى الفوترة والتقارير المالية.
-  - <b>التميز التقني:</b>
-    - <b>أرشفة طبية متقدمة:</b> نظام لإرفاق واسترجاع صور الأشعة والتقارير عالية الدقة مع دعم للبحث السريع.
-    - <b>وحدة مالية ذكية:</b> نظام فوترة آلي يعتمد على الإجراءات الطبية، مع تتبع دقيق للمدفوعات والمستحقات.
-    - <b>أمان البيانات:</b> تطبيق صارم لنظام التحكم في الوصول المستند إلى الأدوار (RBAC) لحماية بيانات المرضى الحساسة.
-  - <b>التقنيات:</b> <code>Django</code> | <code>PostgreSQL</code> | <code>DRF</code> | <code>JWT</code> | <code>Bootstrap</code>
-</details>
-
-<details>
-  <summary>
-    <h3>2️⃣ Emlaa Matjark | منصة تجارة الجملة B2B</h3>
-  </summary>
-  
-  > <b>التحدي:</b> عدم كفاءة التواصل وتتبع الطلبات بين تجار الجملة ومتاجر التجزئة، وصعوبة إدارة الخصومات المعقدة.
-  - <b>الحل:</b> منصة متعددة المستأجرين (Multi-tenant) تتيح لتجار الجملة إدارة كتالوجاتهم، ولتجار التجزئة تقديم الطلبات بالجملة بكفاءة.
-  - <b>التميز التقني:</b>
-    - <b>منطق أعمال ديناميكي:</b> أتمتة مستويات الخصم بناءً على حجم الطلب، نوع العميل، والعروض الترويجية الموسمية.
-    - <b>قابلية التوسع العالية:</b> تحسين استعلامات PostgreSQL للتعامل مع آلاف المنتجات والشركات المتعددة بفعالية.
-    - <b>دعم عالمي:</b> دعم كامل للغة العربية (RTL) مع تبديل ديناميكي وسلس بين العربية والإنجليزية.
-  - <b>التقنيات:</b> <code>Python/Django</code> | <code>PostgreSQL</code> | <code>REST API</code> | <code>Advanced CSS</code>
-</details>
+<p align="center">
+<a href="https://linkedin.com/in/hussein-al-sebaei/"><img src="https://img.shields.io/badge/-Hussein%20Al--Sebaei-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:workonlinems@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/hussinali"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white" /></a>
+</p>
 
 <br>
 
----
-
-<h2 align="center">👋 تواصل معي (Connect with Me)</h2>
-
 <p align="center">
-  <a href="https://linkedin.com/in/hussein-al-sebaei/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:workonlinems@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://medium.com/@_hussein" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://stackoverflow.com/users/hussinali" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=60&section=footer&text=Innovating%20Software%20Through%20Financial%20Intelligence&fontSize=20&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Husseinlearn&icon=3&color=0077B5" />
+  <img src="https://visitcount.itsvg.in/api?id=Husseinlearn&icon=5&color=4" />
 </p>

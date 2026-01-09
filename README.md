@@ -60,11 +60,6 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Husseinlearn&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinlearn&theme=tokyonight&layout=compact&hide_border=false" />
-</p>
-
-<p align="center">
   <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinlearn&theme=tokyonight&hide_border=false" />
 </p>
 
